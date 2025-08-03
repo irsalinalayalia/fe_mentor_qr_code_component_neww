@@ -64,7 +64,7 @@
     /* width: 19vw;
     height: 41vh; */
     width: 270px;
-    height: 270px;
+    height: 280px;
     /* overflow: hidden; */
     
 }
@@ -81,7 +81,7 @@
 }
 
 .text-style{
-    margin-top: 24px;
+    margin-top: 20px;
     /* margin-top: 3vh; */
     display: flex;
     flex-direction: column;
