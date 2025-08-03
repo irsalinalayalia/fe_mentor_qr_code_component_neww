@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Outfit-Bold';
-  src: url('../public/fonts/Outfit-Bold.ttf');
+  src: url('./public/fonts/Outfit-Bold.ttf');
 }
 
 @font-face {
   font-family: 'Outfit-Regular';
-  src: url('../public/fonts/Outfit-Regular.ttf');
+  src: url('./public/fonts/Outfit-Regular.ttf');
 }
 
 .attribution {
